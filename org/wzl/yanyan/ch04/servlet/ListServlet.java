@@ -17,7 +17,11 @@ import java.sql.*;
 
 public class ListServlet extends HttpServlet {
 	
-	private String url ;
+	/**
+	 *
+	 */
+	private static final long serialVersionUID = 2657072625974232058L;
+	private String url;
 	private String name ;
 	private String password ;
 	

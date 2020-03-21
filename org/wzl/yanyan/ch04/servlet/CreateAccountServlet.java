@@ -5,8 +5,6 @@ import javax.servlet.http.*;
 import java.io.*;
 import java.sql.*;
 
-
-
 public class CreateAccountServlet extends HttpServlet{
 	
 	/**
