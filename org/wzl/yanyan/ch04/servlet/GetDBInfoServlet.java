@@ -13,6 +13,11 @@ import javax.servlet.http.HttpServletResponse;
 
 public class GetDBInfoServlet extends HttpServlet {
 
+    /**
+     *
+     */
+    private static final long serialVersionUID = 1031825676495351961L;
+
     private String name;
 
     private String url;

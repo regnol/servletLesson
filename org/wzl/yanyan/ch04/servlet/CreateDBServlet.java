@@ -16,6 +16,10 @@ import java.sql.SQLException;
 
 public class CreateDBServlet extends HttpServlet {
 	
+	/**
+	 *
+	 */
+	private static final long serialVersionUID = 1L;
 	private String user;
 	private String url;
 	private String password;
